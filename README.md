@@ -36,12 +36,12 @@ Download the theme file and unzip the **"chrome"** folder into your **"profile"*
 
 ### Previews
 
-![Untitled](previews/Untitled.png)
+![Untitled](previews/Untitled.png?)
 
-![Untitled](previews/Untitled%201.png)
+![Untitled](previews/Untitled%201.png?)
 
-![Untitled](previews/Untitled%202.png)
+![Untitled](previews/Untitled%202.png?)
 
-![Untitled](previews/Untitled%203.png)
+![Untitled](previews/Untitled%203.png?)
 
-![Untitled](previews/Untitled%204.png)
+![Untitled](previews/Untitled%204.png?)
