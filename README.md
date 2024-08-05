@@ -1,6 +1,6 @@
 # Djie’s Firefox
 
-Personal theme created from https://github.com/yiiyahui/Neptune-Firefox. Minimalist UI With plenty pinned extensions for my usage.
+Personal theme modified from https://github.com/yiiyahui/Neptune-Firefox. Minimalist UI With plenty pinned extensions for my usage.
 
 ### Installation
 
