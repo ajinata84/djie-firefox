@@ -30,6 +30,10 @@ Download the theme file and unzip the **"chrome"** folder into your **"profile"*
         - light:`rgb 246,246,246`
         - dark:`rgb 56,56,56`
 
+### Extensions used for this theme :
+
+- [Adaptive Tab Bar Color by Eason Wong](https://addons.mozilla.org/en-US/firefox/addon/adaptive-tab-bar-colour/)
+
 ### Previews
 
 ![Untitled](previews/Untitled.png)
