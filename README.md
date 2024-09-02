@@ -33,6 +33,7 @@ Download the theme file and unzip the **"chrome"** folder into your **"profile"*
 ### Extensions used for this theme :
 
 - [Adaptive Tab Bar Color by Eason Wong](https://addons.mozilla.org/en-US/firefox/addon/adaptive-tab-bar-colour/)
+- [Tabliss For New Tab Theme](https://tabliss.io/)
 
 ### Previews
 
