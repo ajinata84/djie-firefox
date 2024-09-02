@@ -9,26 +9,22 @@ Download the theme file and unzip the **"chrome"** folder into your **"profile"*
 **Browser Configuration**
 
 - `about:preferences`
-    - Set appearance to automatic.
+  - Set appearance to automatic.
 - `about:config`
-    
-    **Important**
-    
-    - Set `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`.
-    - Set `svg.context-properties.content.enabled` to `true`.
-    - Set `browser.newtabpage.activity-stream.newtabWallpapers.enabled` to `true`.
-    - Set `browser.newtabpage.activity-stream.newtabWallpapers.v2.enabled` to `true`.
-    - Set `widget.non-native-theme.scrollbar.style` to `2` （**For Windows10**. Due to the default scrollbar in Windows 10 being quite wide, it can
+  **Important**
+  - Set `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`.
+  - Set `svg.context-properties.content.enabled` to `true`.
+  - Set `browser.newtabpage.activity-stream.newtabWallpapers.enabled` to `true`.
+  - Set `browser.newtabpage.activity-stream.newtabWallpapers.v2.enabled` to `true`.
+  - Set `widget.non-native-theme.scrollbar.style` to `2` （**For Windows10**. Due to the default scrollbar in Windows 10 being quite wide, it can
     affect the setting menu's width., this configuration is recommended.)
-    
-    **Optional**
-    
-    - Set `browser.newtabpage.activity-stream.improvesearch.handoffToAwesomebar` to `false`.
+  **Optional**
+  - Set `browser.newtabpage.activity-stream.improvesearch.handoffToAwesomebar` to `false`.
 - **Adaptive Tab Bar Color settings**
-    - Turn off all `Customization` colors,
-    - configure `advanced`
-        - light:`rgb 246,246,246`
-        - dark:`rgb 56,56,56`
+  - Turn off all `Customization` colors,
+  - configure `advanced`
+    - light:`rgb 246,246,246`
+    - dark:`rgb 56,56,56`
 
 ### Extensions used for this theme :
 
@@ -37,12 +33,12 @@ Download the theme file and unzip the **"chrome"** folder into your **"profile"*
 
 ### Previews
 
-![Untitled](previews/Untitled.png?)
+![Untitled](previews/Home.png?)
 
-![Untitled](previews/Untitled%201.png?)
+![Untitled](previews/LP.png?)
 
-![Untitled](previews/Untitled%202.png?)
+![Untitled](previews/Google.png?)
 
-![Untitled](previews/Untitled%203.png?)
+![Untitled](previews/Music.png?)
 
-![Untitled](previews/Untitled%204.png?)
+![Untitled](previews/HLTV.png?)
